@@ -29,4 +29,4 @@ Username: admin
 Password: password
 
 ## Licence
-This software is licensed under the GNU General Public License 3.0, a copy of which can be found in the LICENSE file.
+This software is licensed under the GNU General Public License 3.0, a copy of which can be found in the LICENSE file..
